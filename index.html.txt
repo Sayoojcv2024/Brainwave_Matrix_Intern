@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brainwave Matrix Intern</title>
+</head>
+<body>
+    <h1>Hello from AWS EC2!</h1>
+    <p>This is my internship Task 1 deployment.</p>
+</body>
+</html>
